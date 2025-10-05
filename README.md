@@ -125,3 +125,34 @@ Updates will include:
 
 If you use this repository, please cite:\
 ***Petalcorin, M. I. R.*** *(2025). Engineering C3.5 Photosynthesis: Coupling Mitochondrial Bioenergetics to Rubisco Efficiency in Arabidopsis. GitHub*
+
+## Conclusion and Future Directions
+
+This study introduces C3.5 photosynthesis as a transformative framework for crop engineering, built on the idea of repurposing mitochondria as carbon-recycling organelles. By coupling mitochondrial CO₂ release and bioenergetics with chloroplast carbon assimilation, we provide computational and simulated evidence that assimilation rates, Rubisco efficiency, and water-use efficiency can be improved by 20-50 percent in Arabidopsis. These improvements parallel or exceed those achieved by recent photorespiratory bypass strategies (South et al., 2019), while offering a fundamentally different path, one that leverages existing mitochondrial processes rather than requiring anatomical restructuring akin to C4 photosynthesis.
+
+Looking forward, the next five years present a unique opportunity to test and translate this framework. Stage 1 focuses on synthetic biology of mitochondrial compartments, building carboxysome-like structures within mitochondria to trap CO₂. Stage 2 establishes organelle tethers and metabolite channels to direct CO₂ flux to chloroplasts. Stage 3 pursues bioenergetic coupling, rewiring FoF₁ ATP synthase to power bicarbonate transporters while balancing ATP costs. Stage 4 validates performance in Arabidopsis through phenotyping and molecular assays. Stage 5 scales this design into staple crops such as rice and wheat under controlled and semi-field environments.
+
+The implications extend beyond agriculture. By reconceptualizing mitochondria as synthetic carbon pumps, this approach opens a new frontier in organelle engineering. It also provides a broader paradigm for synthetic biology: cross-organelle reprogramming that integrates chloroplasts, mitochondria, and even peroxisomes into unified networks. Such designs may not only enhance crop resilience but also contribute to planetary sustainability by reducing fertilizer inputs, improving water-use efficiency, and enabling decarbonised plant-based production systems.
+
+If successful, C3.5 photosynthesis could represent a paradigm shift of novel significance. It would establish an entirely new photosynthetic pathway, expand the synthetic biology toolkit into mitochondria, and deliver real-world solutions to one of humanity’s greatest challenges, feeding a growing population under climate change. By anchoring this vision in testable, stage-gated experiments, the path from concept to field deployment becomes both scientifically feasible and societally urgent.
+
+References
+
+1.	Busch, F. A. (2020). Photorespiration in the context of Rubisco biochemistry, CO₂ diffusion, and metabolism. The Plant Journal, 101(4), 919–939. https://doi.org/10.1111/tpj.14674
+2.	Carmo-Silva, E., Scales, J. C., Madgwick, P. J., & Parry, M. A. J. (2015). Optimizing Rubisco and its regulation for greater resource use efficiency. Plant, Cell & Environment, 38(9), 1817–1832. https://doi.org/10.1111/pce.12425
+3.	Gerber, J.S., Ray, D.K., Makowski, D. et al. (2024) Global spatially explicit yield gap time trends reveal regions at risk of future crop yield stagnation. Nat Food 5, 125–135. https://doi.org/10.1038/s43016-023-00913-8
+4.	Hennacy, J. H., & Jonikas, M. C. (2020). Prospects for engineering biophysical CO₂ concentrating mechanisms into land plants to enhance yields. Annual Review of Plant Biology, 71(1), 461–485. https://doi.org/10.1146/annurev-arplant-081519-035910
+5.	Hou R, Wang Z. (2021). Thermodynamic marking of FOF1 ATP synthase. Biochim Biophys Acta Bioenerg., 1862(4):148369. https://doi.org/10.1016/j.bbabio.2021.148369
+6.	Iqbal, W. A., Miller, I. G., Moore, R. L.,  Hope, I. J., Cowan-Turner, D., Kapralov, M. V. (2021) Rubisco substitutions predicted to enhance crop performance through carbon uptake modelling, Journal of Experimental Botany, 72(17)6066–6075, https://doi.org/10.1093/jxb/erab278
+7.	Kromdijk, J., Głowacka, K., Leonelli, L., Gabilly, S. T., Iwai, M., Niyogi, K. K., & Long, S. P. (2016). Improving photosynthesis and crop productivity by accelerating recovery from photoprotection. Science, 354(6314), 857–861. https://doi.org/10.1126/science.aai8878
+8.	Lawson, T., & Matthews, J. (2020). Guard cell metabolism and stomatal function. Annual Review of Plant Biology, 71(1), 273–302. https://doi.org/10.1146/annurev-arplant-050718-100251
+9.	Lawson T, Vialet-Chabrand S. (2019). Speedy stomata, photosynthesis and plant water use efficiency. New Phytol., 221(1):93-98. https://doi.org/10.1111/nph.15330
+10.	Lin, M. T., Occhialini, A., Andralojc, P. J., Parry, M. A. J., & Hanson, M. R. (2014). A faster Rubisco with potential to increase photosynthesis in crops. Nature, 513(7519), 547–550. https://doi.org/10.1038/nature13776
+11.	Michaud, M., Jouhet, J., & Maréchal, E. (2017). Lipid trafficking at membrane contact sites during plant development and stress response. Frontiers in Plant Science, 8, 1920. https://doi.org/10.3389/fpls.2019.00002
+12.	Namachivayam, R., Manickam, G.P., Eswaran, K. et al. (2025). Strategies to improve photosynthesis by modifying the RuBisCO system and its limitations. Mol Biol Rep., 52, 951. https://doi.org/10.1007/s11033-025-11075-0
+13.	Nguyen ND, Pulsford SB, Förster B, Rottet S, Rourke L, Long BM, Price GD. (2024) A carboxysome-based CO2 concentrating mechanism for C3 crop chloroplasts: advances and the road ahead. Plant J.,118(4):940-952. https://doi.org/10.1111/tpj.16667
+14.	Schuler ML, Mantegazza O, Weber AP. (2016) Engineering C4 photosynthesis into C3 chassis in the synthetic biology age. Plant J. 87(1):51-65. https://doi.org/10.1111/tpj.13155
+15.	South, P. F., Cavanagh, A. P., Liu, H. W., & Ort, D. R. (2019). Synthetic glycolate metabolism pathways stimulate crop growth and productivity in the field. Science, 363(6422), eaat9077. https://doi.org/10.1126/science.aat9077
+16.	Walker, B. J., VanLoocke, A., Bernacchi, C. J., & Ort, D. R. (2016). The costs of photorespiration to food production now and in the future. Annual Review of Plant Biology, 67(1), 107–129. https://doi.org/10.1146/annurev-arplant-043015-111709
+17.	Xu, C., Liu, Q., & Huang, X. (2022). Machine learning-assisted synthetic biology. Nature Communications, 13(1), 3607. https://doi.org/10.1038/s41467-022-31244-4
+18.	Yin, X., & Struik, P. C. (2018). The energy budget in C₃ photosynthesis: Insights from combined quantum yield and metabolic flux analysis. New Phytologist, 218(3), 986-998. https://doi.org/10.1111/nph.15051
