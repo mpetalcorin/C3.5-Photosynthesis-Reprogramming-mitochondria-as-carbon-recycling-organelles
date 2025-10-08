@@ -124,7 +124,7 @@ Updates will include:
 ## Citation
 
 If you use this repository, please cite:\
-***Petalcorin, M. I. R.*** *(2025). Engineering C3.5 Photosynthesis: Coupling Mitochondrial Bioenergetics to Rubisco Efficiency in Arabidopsis. GitHub*
+***Petalcorin, M. I. R.*** *(2025). Engineering C3.5 Photosynthesis: Coupling Mitochondrial Bioenergetics to Rubisco Efficiency in Arabidopsis. [GitHub](https://www.biorxiv.org/cgi/content/short/2025.10.04.680431v1)*
 
 ## Conclusion and Future Directions
 
